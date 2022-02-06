@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotesAppMVVM</string>
+    <string name="no_filter">No Filter</string>
+</resources>
